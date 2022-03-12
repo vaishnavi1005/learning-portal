@@ -1,6 +1,6 @@
 package corejava.oops.inheritance;
 
-
+//B-5907 - 1 points
 //Questions:
 //	
 //	1. parameterized constrcutor vs default constructor
