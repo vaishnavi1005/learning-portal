@@ -1,0 +1,4 @@
+why while compilation it is askng me to give static to getEmployeeId()??
+why tostring ?If not given why is it not assigning the values?
+
+cmd+shift+c{comments multiple lines }
