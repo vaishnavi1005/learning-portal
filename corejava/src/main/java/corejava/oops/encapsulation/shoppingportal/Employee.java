@@ -1,4 +1,4 @@
-package corejava.oops.encapsulation;
+package corejava.oops.encapsulation.shoppingportal;
 
 public class Employee extends person {
 	
